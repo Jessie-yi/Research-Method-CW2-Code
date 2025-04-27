@@ -41,4 +41,4 @@ Radar Chart: Interactively displays average environmental impacts per diet group
 Scatter Matrix: Interactively compares environmental indicators across diet groups.
 
 
-# Static image export (e.g., .svg files) not required by default submission limit.
+#Static image export (e.g., .svg files) not required by default submission limit.
